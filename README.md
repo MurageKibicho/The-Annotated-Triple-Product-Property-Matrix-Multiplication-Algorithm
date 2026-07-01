@@ -15,7 +15,7 @@ We follow (Cohn & Umans, 2003) thesis in Python and observe:
 # Getting Started
 
 ### For the shape rotators:
-You can follow the annotated Google Colab notebook, or `git clone` the repo and open the jupyter notebook.
+You can follow the annotated [Google Colab notebook](https://colab.research.google.com/drive/1tT1K9o8Q3DI0f3Ftal9A2REYeVE5p5g8#scrollTo=epTndu6CT511), or `git clone` the repo and open the jupyter notebook.
 
 ### For the wordcels:
 Here's a super-friendly [Substack article](https://leetarxiv.substack.com/p/triple-product-property-matrix-multiplication).
